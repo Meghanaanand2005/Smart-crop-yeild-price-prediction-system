@@ -1,0 +1,7 @@
+Deployment link:
+https://smart-crop-yeild-price-prediction-system-dwvamwpybqdhkuwcy9eqp.streamlit.app/
+
+
+
+GitHub Repo link:
+https://github.com/Meghanaanand2005/Smart-crop-yeild-price-prediction-system.git
